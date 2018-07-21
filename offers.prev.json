@@ -9,7 +9,9 @@
             "chatters",
             "viewers",
             "followers"
-        ]
+        ],
+        "offer": true,
+        "offer_events": []
     },
     "goodgame": {
         "events": [
@@ -21,132 +23,170 @@
             "chatters",
             "viewers",
             "followers"
-        ]
+        ],
+        "offer": true,
+        "offer_events": []
     },
     "aces": {
         "events": [],
         "indicators": [
             "chatters",
             "viewers"
-        ]
+        ],
+        "offer": true,
+        "offer_events": []
     },
     "cybergame": {
         "events": [],
         "indicators": [
             "chatters",
             "viewers"
-        ]
+        ],
+        "offer": true,
+        "offer_events": []
     },
     "gamerstv": {
         "events": [],
         "indicators": [
             "chatters",
             "viewers"
-        ]
+        ],
+        "offer": true,
+        "offer_events": []
     },
     "gip": {
         "events": [],
         "indicators": [
             "chatters",
             "viewers"
-        ]
+        ],
+        "offer": true,
+        "offer_events": []
     },
     "mobcrush": {
         "events": [],
         "indicators": [
             "chatters",
             "viewers"
-        ]
+        ],
+        "offer": true,
+        "offer_events": []
     },
     "oklive": {
         "events": [],
         "indicators": [
             "chatters",
             "viewers"
-        ]
+        ],
+        "offer": true,
+        "offer_events": []
     },
     "peka2tv": {
         "events": [],
         "indicators": [
             "chatters",
             "viewers"
-        ]
+        ],
+        "offer": true,
+        "offer_events": []
     },
     "picarto": {
         "events": [],
         "indicators": [
             "chatters",
             "viewers"
-        ]
+        ],
+        "offer": true,
+        "offer_events": []
     },
     "piczel": {
         "events": [],
         "indicators": [
             "chatters",
             "viewers"
-        ]
+        ],
+        "offer": true,
+        "offer_events": []
     },
     "sc2tv": {
         "events": [],
         "indicators": [
             "chatters",
             "viewers"
-        ]
+        ],
+        "offer": true,
+        "offer_events": []
     },
     "smashcast": {
         "events": [],
         "indicators": [
             "chatters",
             "viewers"
-        ]
+        ],
+        "offer": true,
+        "offer_events": []
     },
     "smotri": {
         "events": [],
         "indicators": [
             "chatters",
             "viewers"
-        ]
+        ],
+        "offer": true,
+        "offer_events": []
     },
     "streamcube": {
         "events": [],
         "indicators": [
             "chatters",
             "viewers"
-        ]
+        ],
+        "offer": true,
+        "offer_events": []
     },
     "mixer": {
         "events": [],
         "indicators": [
             "chatters",
             "viewers"
-        ]
+        ],
+        "offer": true,
+        "offer_events": []
     },
     "vidi": {
         "events": [],
         "indicators": [
             "chatters",
             "viewers"
-        ]
+        ],
+        "offer": true,
+        "offer_events": []
     },
     "vklive": {
         "events": [],
         "indicators": [
             "chatters",
             "viewers"
-        ]
+        ],
+        "offer": true,
+        "offer_events": []
     },
     "vktopic": {
         "events": [],
         "indicators": [
             "chatters",
             "viewers"
-        ]
+        ],
+        "offer": true,
+        "offer_events": []
     },
     "youtube": {
         "events": [],
         "indicators": [
             "chatters",
             "viewers"
-        ]
+        ],
+        "offer": true,
+        "offer_events": []
     }
 }
