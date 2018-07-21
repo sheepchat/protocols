@@ -28,7 +28,7 @@
         "available": true,
         "version": "2",
         "dev": "2bc8f9b390ef31691f4d14342d746459",
-        "hash": "13cfb7a8062bec5877f78f0aa310df6c",
+        "hash": "850ae97b259a651d71be63dbea5f8254",
         "ng": "1"
     },
     "gamerstv": {
@@ -44,7 +44,7 @@
         "available": true,
         "version": "2",
         "dev": "976f485591ef257ee363b9839902f1a0",
-        "hash": "96cebb78b4f32fa6c0fa938effdfc9da",
+        "hash": "4881f3bc8999e11d03aba8cd9a8f76d4",
         "ng": "1"
     },
     "gip": {
@@ -60,7 +60,7 @@
         "available": true,
         "version": "2",
         "dev": "addaba12afeedd29f53a450d7f703b41",
-        "hash": "380a95e8bf9a0fd7a38c3e736e68fc7a",
+        "hash": "89341c6bd21f318dbb35a7452366917e",
         "ng": "1"
     },
     "goodgame": {
@@ -76,7 +76,7 @@
         "available": true,
         "version": 9,
         "dev": "f60c42a67acd21daf4505dcb8266e7bd",
-        "hash": "21cc5a677bccb0e070cc33d78822d006",
+        "hash": "f87716277c35b516a70d6c72f25d7b3e",
         "ng": "1"
     },
     "mobcrush": {
@@ -92,7 +92,7 @@
         "available": true,
         "version": "2",
         "dev": "d151ba61bbfdee6fbcbbac74da037bb9",
-        "hash": "a5535c573ee31316ddc6104b3457f7e0",
+        "hash": "bd2d1759dd00bd727dff88f9c87e5eef",
         "ng": "1"
     },
     "oklive": {
@@ -108,7 +108,7 @@
         "available": true,
         "version": 4,
         "dev": "1cb5115b588403c46c392a2efd599abb",
-        "hash": "e5644b4bd0e0bcc4fe09cd5d00e0752e",
+        "hash": "5ae6ef3f51d901f4e3cbcf23bda0b5cf",
         "ng": "1"
     },
     "peka2tv": {
@@ -124,7 +124,7 @@
         "available": true,
         "version": 4,
         "dev": "e3eac90ccbc5ca35007b64be76835712",
-        "hash": "cce27ce3b74d07472005b1cbef8a1c8e",
+        "hash": "97bdf661cb438f13c72f0f0f396732cb",
         "ng": "1"
     },
     "picarto": {
@@ -172,7 +172,7 @@
         "available": true,
         "version": 4,
         "dev": "60be830762df4c47b82c3c4ee9229f8f",
-        "hash": "267d3351fb405eeaab260569a2dad56d",
+        "hash": "7c001d74b207e83644737daf0d521584",
         "ng": "1"
     },
     "smashcast": {
@@ -188,7 +188,7 @@
         "available": true,
         "version": 5,
         "dev": "9108cb8b0e36b4bfffea699a02fb7d82",
-        "hash": "a3bd83a3408975f10f73f509442c4258",
+        "hash": "89403568a9654b0c82554cabe589270b",
         "ng": "1"
     },
     "smotri": {
@@ -220,7 +220,7 @@
         "available": true,
         "version": "2",
         "dev": "5fded0f97b31eb391e81e67e150ec081",
-        "hash": "dbfc0c0ba44332772073214126d30519",
+        "hash": "cdafdd4c707a669fbbbade79ab01b689",
         "ng": "1"
     },
     "mixer": {
@@ -236,7 +236,7 @@
         "available": true,
         "version": "2",
         "dev": "597a33b0ffafc88a365fe5c64431e44e",
-        "hash": "785b105712c815b35e3eedadae00b5d1",
+        "hash": "fc556e4552c1ca392d507975dd5825dc",
         "ng": "1"
     },
     "twitch": {
@@ -252,7 +252,7 @@
         "available": true,
         "version": 7,
         "dev": "a9a25a45c6ad696ca7800e7432698356",
-        "hash": "69f6ef95794f90b01d4a195f136df492",
+        "hash": "bc75e2ac95124736d7fd8a484a712e7d",
         "ng": "1"
     },
     "vidi": {
@@ -284,7 +284,7 @@
         "available": true,
         "version": "18",
         "dev": "081cfec9822841a93297d4cc025b180e",
-        "hash": "d1ea003307ae6ab922dac9f74faddebf",
+        "hash": "61956e2b6553e3fc66585cb072c6d439",
         "ng": "1"
     },
     "vktopic": {
@@ -316,7 +316,7 @@
         "available": true,
         "version": 6,
         "dev": "23a01347dad5460e752abd0beeacf68f",
-        "hash": "2ec7731f55bd7e4e5c57b374ab6f923a",
+        "hash": "6953105b5c0ac812ee0c8c94b196047c",
         "ng": "1"
     }
 }

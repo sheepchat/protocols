@@ -28,7 +28,7 @@
         "available": true,
         "version": "2",
         "dev": "2bc8f9b390ef31691f4d14342d746459",
-        "hash": "aaac43507733b991adabc28e8ff27e15",
+        "hash": "13cfb7a8062bec5877f78f0aa310df6c",
         "ng": "1"
     },
     "gamerstv": {
@@ -44,7 +44,7 @@
         "available": true,
         "version": "2",
         "dev": "976f485591ef257ee363b9839902f1a0",
-        "hash": "b42afcda9d84e159d90cd6ba20027116",
+        "hash": "96cebb78b4f32fa6c0fa938effdfc9da",
         "ng": "1"
     },
     "gip": {
@@ -60,7 +60,7 @@
         "available": true,
         "version": "2",
         "dev": "addaba12afeedd29f53a450d7f703b41",
-        "hash": "840c299ab597e3c99e9f890923647b17",
+        "hash": "380a95e8bf9a0fd7a38c3e736e68fc7a",
         "ng": "1"
     },
     "goodgame": {
@@ -76,7 +76,7 @@
         "available": true,
         "version": 9,
         "dev": "f60c42a67acd21daf4505dcb8266e7bd",
-        "hash": "e95081169cd00136b60f81f6ba83d754",
+        "hash": "21cc5a677bccb0e070cc33d78822d006",
         "ng": "1"
     },
     "mobcrush": {
@@ -92,7 +92,7 @@
         "available": true,
         "version": "2",
         "dev": "d151ba61bbfdee6fbcbbac74da037bb9",
-        "hash": "9d9db6934c7c9dff6852cc8f6181771a",
+        "hash": "a5535c573ee31316ddc6104b3457f7e0",
         "ng": "1"
     },
     "oklive": {
@@ -108,7 +108,7 @@
         "available": true,
         "version": 4,
         "dev": "1cb5115b588403c46c392a2efd599abb",
-        "hash": "a19a3f0d781573046a1294472ad9e79d",
+        "hash": "e5644b4bd0e0bcc4fe09cd5d00e0752e",
         "ng": "1"
     },
     "peka2tv": {
@@ -124,7 +124,7 @@
         "available": true,
         "version": 4,
         "dev": "e3eac90ccbc5ca35007b64be76835712",
-        "hash": "fdf88597dcd9597972f991acebdfb446",
+        "hash": "cce27ce3b74d07472005b1cbef8a1c8e",
         "ng": "1"
     },
     "picarto": {
@@ -172,7 +172,7 @@
         "available": true,
         "version": 4,
         "dev": "60be830762df4c47b82c3c4ee9229f8f",
-        "hash": "ba43bde7283d8fc1c82a8f2014c06b7a",
+        "hash": "267d3351fb405eeaab260569a2dad56d",
         "ng": "1"
     },
     "smashcast": {
@@ -188,7 +188,7 @@
         "available": true,
         "version": 5,
         "dev": "9108cb8b0e36b4bfffea699a02fb7d82",
-        "hash": "f537256e816ccdeeb0587b64694bca42",
+        "hash": "a3bd83a3408975f10f73f509442c4258",
         "ng": "1"
     },
     "smotri": {
@@ -220,7 +220,7 @@
         "available": true,
         "version": "2",
         "dev": "5fded0f97b31eb391e81e67e150ec081",
-        "hash": "a9f6d84e0726d370cfd189e6a3df70fd",
+        "hash": "dbfc0c0ba44332772073214126d30519",
         "ng": "1"
     },
     "mixer": {
@@ -236,7 +236,7 @@
         "available": true,
         "version": "2",
         "dev": "597a33b0ffafc88a365fe5c64431e44e",
-        "hash": "e90e2747b22bd25b78390b02ebb1eb54",
+        "hash": "785b105712c815b35e3eedadae00b5d1",
         "ng": "1"
     },
     "twitch": {
@@ -252,7 +252,7 @@
         "available": true,
         "version": 7,
         "dev": "a9a25a45c6ad696ca7800e7432698356",
-        "hash": "82f79884a5b5e41e45f28be50e3f0f5d",
+        "hash": "69f6ef95794f90b01d4a195f136df492",
         "ng": "1"
     },
     "vidi": {
@@ -284,7 +284,7 @@
         "available": true,
         "version": "18",
         "dev": "081cfec9822841a93297d4cc025b180e",
-        "hash": "1f52872ee2e0a8ab278afafe888d842a",
+        "hash": "d1ea003307ae6ab922dac9f74faddebf",
         "ng": "1"
     },
     "vktopic": {
@@ -314,9 +314,9 @@
             "en": "In the field \"Channel\" it is necessary to insert the full url to broadcasting or the channel, url will be automatically converted in the identifier. Also you can insert the identifier independently."
         },
         "available": true,
-        "version": 5,
-        "dev": "842a46b12f02dec33566cc827bcff001",
-        "hash": "0ef286e8ee2a6169e54325c2866f6fa6",
+        "version": 6,
+        "dev": "23a01347dad5460e752abd0beeacf68f",
+        "hash": "2ec7731f55bd7e4e5c57b374ab6f923a",
         "ng": "1"
     }
 }

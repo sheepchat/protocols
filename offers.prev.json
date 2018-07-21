@@ -1,0 +1,152 @@
+{
+    "twitch": {
+        "events": [
+            "follow",
+            "join",
+            "leave"
+        ],
+        "indicators": [
+            "chatters",
+            "viewers",
+            "followers"
+        ]
+    },
+    "goodgame": {
+        "events": [
+            "follow",
+            "join",
+            "leave"
+        ],
+        "indicators": [
+            "chatters",
+            "viewers",
+            "followers"
+        ]
+    },
+    "aces": {
+        "events": [],
+        "indicators": [
+            "chatters",
+            "viewers"
+        ]
+    },
+    "cybergame": {
+        "events": [],
+        "indicators": [
+            "chatters",
+            "viewers"
+        ]
+    },
+    "gamerstv": {
+        "events": [],
+        "indicators": [
+            "chatters",
+            "viewers"
+        ]
+    },
+    "gip": {
+        "events": [],
+        "indicators": [
+            "chatters",
+            "viewers"
+        ]
+    },
+    "mobcrush": {
+        "events": [],
+        "indicators": [
+            "chatters",
+            "viewers"
+        ]
+    },
+    "oklive": {
+        "events": [],
+        "indicators": [
+            "chatters",
+            "viewers"
+        ]
+    },
+    "peka2tv": {
+        "events": [],
+        "indicators": [
+            "chatters",
+            "viewers"
+        ]
+    },
+    "picarto": {
+        "events": [],
+        "indicators": [
+            "chatters",
+            "viewers"
+        ]
+    },
+    "piczel": {
+        "events": [],
+        "indicators": [
+            "chatters",
+            "viewers"
+        ]
+    },
+    "sc2tv": {
+        "events": [],
+        "indicators": [
+            "chatters",
+            "viewers"
+        ]
+    },
+    "smashcast": {
+        "events": [],
+        "indicators": [
+            "chatters",
+            "viewers"
+        ]
+    },
+    "smotri": {
+        "events": [],
+        "indicators": [
+            "chatters",
+            "viewers"
+        ]
+    },
+    "streamcube": {
+        "events": [],
+        "indicators": [
+            "chatters",
+            "viewers"
+        ]
+    },
+    "mixer": {
+        "events": [],
+        "indicators": [
+            "chatters",
+            "viewers"
+        ]
+    },
+    "vidi": {
+        "events": [],
+        "indicators": [
+            "chatters",
+            "viewers"
+        ]
+    },
+    "vklive": {
+        "events": [],
+        "indicators": [
+            "chatters",
+            "viewers"
+        ]
+    },
+    "vktopic": {
+        "events": [],
+        "indicators": [
+            "chatters",
+            "viewers"
+        ]
+    },
+    "youtube": {
+        "events": [],
+        "indicators": [
+            "chatters",
+            "viewers"
+        ]
+    }
+}
