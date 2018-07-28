@@ -28,7 +28,7 @@
         "available": true,
         "version": "2",
         "dev": "2bc8f9b390ef31691f4d14342d746459",
-        "hash": "f319c79dfddbc1274bc1ab16adf5ee1b",
+        "hash": "b4c0cccb8891f44f14c01ff6a44f66e3",
         "ng": "1"
     },
     "gamerstv": {
@@ -44,7 +44,7 @@
         "available": true,
         "version": "2",
         "dev": "976f485591ef257ee363b9839902f1a0",
-        "hash": "f714f73857a7ec379930b487a3ac9077",
+        "hash": "49dedf947bd9ddd07056d145ff90911e",
         "ng": "1"
     },
     "gip": {
@@ -60,7 +60,7 @@
         "available": true,
         "version": "2",
         "dev": "addaba12afeedd29f53a450d7f703b41",
-        "hash": "b332848ee5c72a627d0f1fe6459588b6",
+        "hash": "2394a279f43fff3386e3266f7f6c4043",
         "ng": "1"
     },
     "goodgame": {
@@ -76,7 +76,7 @@
         "available": true,
         "version": 9,
         "dev": "f60c42a67acd21daf4505dcb8266e7bd",
-        "hash": "1f0d2c7228f4a25441e894b9824d3679",
+        "hash": "ed6da91cae6d0b0d28f4ca0e4325c8fa",
         "ng": "1"
     },
     "mobcrush": {
@@ -92,7 +92,7 @@
         "available": true,
         "version": "2",
         "dev": "d151ba61bbfdee6fbcbbac74da037bb9",
-        "hash": "ae89338d7d8e972f84ae392e95f395ef",
+        "hash": "e0af92f485860c97ead6f6f6411443aa",
         "ng": "1"
     },
     "oklive": {
@@ -106,9 +106,9 @@
             "en": "In the field \"Channel\" it is necessary to insert the identifier of the channel. The channel identifier can be obtained from the reference channel, examples links:<br><br>https://ok.ru/video/234285571618<br>Identifier: 234285571618"
         },
         "available": true,
-        "version": 5,
-        "dev": "b0b273e1679710f2f0a520c0df757a19",
-        "hash": "7b9550d51f7ccdbd5333f39804bb1aef",
+        "version": 6,
+        "dev": "d5a8dfbe1fc24a3823dcfda0c6cdeb1c",
+        "hash": "32176621cce612bbcab00f6522c44f6e",
         "ng": "1"
     },
     "peka2tv": {
@@ -124,7 +124,7 @@
         "available": true,
         "version": 4,
         "dev": "e3eac90ccbc5ca35007b64be76835712",
-        "hash": "8450d65fc5e9f3f674e02a76d3bb9efe",
+        "hash": "47bf8de641aa9c0725748b07ea2dbd29",
         "ng": "1"
     },
     "picarto": {
@@ -172,7 +172,7 @@
         "available": true,
         "version": 4,
         "dev": "60be830762df4c47b82c3c4ee9229f8f",
-        "hash": "948eea508d4184681f26c1ff597da093",
+        "hash": "5b6d11de612924228f46e913f2fea7ec",
         "ng": "1"
     },
     "smashcast": {
@@ -188,7 +188,7 @@
         "available": true,
         "version": 5,
         "dev": "9108cb8b0e36b4bfffea699a02fb7d82",
-        "hash": "578fd081243078074aca882e8a338d08",
+        "hash": "cd4afebc04bb3d5f6dbcce82a9be7f6f",
         "ng": "1"
     },
     "smotri": {
@@ -220,7 +220,7 @@
         "available": true,
         "version": "2",
         "dev": "5fded0f97b31eb391e81e67e150ec081",
-        "hash": "24aab56a045cafce9057010679649388",
+        "hash": "24662bf3c2637b1ad82caf1d9cd7cb8c",
         "ng": "1"
     },
     "mixer": {
@@ -236,7 +236,7 @@
         "available": true,
         "version": "2",
         "dev": "597a33b0ffafc88a365fe5c64431e44e",
-        "hash": "9cf4f563e33465a52bca0be7372fc5cb",
+        "hash": "8b423acdceab039e622cfdedfe0edf21",
         "ng": "1"
     },
     "twitch": {
@@ -252,7 +252,7 @@
         "available": true,
         "version": 8,
         "dev": "5573878a5baac50db448519c2d8b0de7",
-        "hash": "45736bfd65d9a62aaffcabdda93c7ab4",
+        "hash": "74b25555e3607471a2e154c72a217ab6",
         "ng": "1"
     },
     "vidi": {
@@ -284,7 +284,7 @@
         "available": true,
         "version": "18",
         "dev": "081cfec9822841a93297d4cc025b180e",
-        "hash": "7fa936ff43a24f310de1dd323908d184",
+        "hash": "14a7ebc95582162d4eaf1da4c7020dab",
         "ng": "1"
     },
     "vktopic": {
@@ -316,7 +316,7 @@
         "available": true,
         "version": 6,
         "dev": "23a01347dad5460e752abd0beeacf68f",
-        "hash": "6107eafcb8b2590af273b36b703543ec",
+        "hash": "774eaacfa832c83566de6f521bcb2bef",
         "ng": "1"
     }
 }
