@@ -29,7 +29,7 @@
         },
         "dev": "2bc8f9b390ef31691f4d14342d746459",
         "events": [],
-        "hash": "80c819cc0111d13581fb75b2fc83ba02",
+        "hash": "29beb154e780d42db7d9c1bb327f5916",
         "indicators": [
             "chatters",
             "viewers"
@@ -53,7 +53,7 @@
         "events": [
             "donate"
         ],
-        "hash": "efd528808724ac5e77cfaf5027b34613",
+        "hash": "579173bc7fc0d8fea0b793ebc7142655",
         "indicators": [
             "donations"
         ],
@@ -75,7 +75,7 @@
         },
         "dev": "976f485591ef257ee363b9839902f1a0",
         "events": [],
-        "hash": "cec5e2e981284b12a59704dd17432589",
+        "hash": "71a19d4792ff8f4acd91660df13b814b",
         "indicators": [
             "chatters",
             "viewers"
@@ -97,7 +97,7 @@
         },
         "dev": "0500d03ff3517fe1f479552b6edf67ad",
         "events": [],
-        "hash": "e07b6f99a2d26f66724946af237eae05",
+        "hash": "b78e6e70d6a42a84a203b7efaa8c299e",
         "indicators": [
             "chatters",
             "viewers"
@@ -117,13 +117,13 @@
             "en": "In the field \"Channel\" it is necessary to insert the identifier of the channel. The channel identifier can be obtained from the reference channel, examples links:<br><br>http://goodgame.ru/channel/streamota/autoplay/<br>http://goodgame.ru/channel/streamota/<br>Identifier: streamota",
             "ru": "В поле \"Канал\" необходимо вставить идентификатор канала. Идентификатор канала можно получить из ссылки на канал, примеры ссылок:<br><br>http://goodgame.ru/channel/streamota/autoplay/<br>http://goodgame.ru/channel/streamota/<br>Идентификатор: streamota"
         },
-        "dev": "1fe6052c6050ed70a68725aa60a6bc01",
+        "dev": "f60c42a67acd21daf4505dcb8266e7bd",
         "events": [
             "follow",
             "join",
             "leave"
         ],
-        "hash": "753f077a60f7baddb41c9bd1d94792ed",
+        "hash": "9ce11d4583cfbb9f9da14f963334698f",
         "indicators": [
             "chatters",
             "viewers"
@@ -135,7 +135,7 @@
         "name": "GoodGame",
         "ng": "1",
         "offer": true,
-        "version": 10
+        "version": 9
     },
     "mixer": {
         "available": true,
@@ -145,7 +145,7 @@
         },
         "dev": "597a33b0ffafc88a365fe5c64431e44e",
         "events": [],
-        "hash": "f094c5168ffdedc7cf0fd7891324bc3f",
+        "hash": "c9caebf9eecb4af812c5dff32d039012",
         "indicators": [
             "chatters",
             "viewers"
@@ -167,7 +167,7 @@
         },
         "dev": "d151ba61bbfdee6fbcbbac74da037bb9",
         "events": [],
-        "hash": "e8e40ab2d9eae4e72c8e6bb488cfad00",
+        "hash": "8c49168780f4b907cebefe719912d9b6",
         "indicators": [
             "chatters",
             "viewers"
@@ -189,7 +189,7 @@
         },
         "dev": "d5a8dfbe1fc24a3823dcfda0c6cdeb1c",
         "events": [],
-        "hash": "32c46bb3a2dcd2290f84fe671b44272b",
+        "hash": "ce286201473954a87e04793dc728d988",
         "indicators": [
             "chatters",
             "viewers"
@@ -211,7 +211,7 @@
         },
         "dev": "e3eac90ccbc5ca35007b64be76835712",
         "events": [],
-        "hash": "4ff1ed119e28888ceeccddf0d64e3b65",
+        "hash": "a65af90992dfd1c8d077baa8242167c0",
         "indicators": [
             "chatters",
             "viewers"
@@ -234,7 +234,7 @@
         },
         "dev": "649e843d2ab9076ad18f875c37a66657",
         "events": [],
-        "hash": "0d0195e0984f880b5e93404f810c439c",
+        "hash": "dc3e391a80d701744913cf1927805922",
         "indicators": [
             "viewers"
         ],
@@ -301,7 +301,7 @@
         },
         "dev": "60be830762df4c47b82c3c4ee9229f8f",
         "events": [],
-        "hash": "015298fd87300103459628afcfee6485",
+        "hash": "4bf0d5e7509cefb50b6de32bdc3c70e2",
         "indicators": [
             "chatters",
             "viewers"
@@ -323,7 +323,7 @@
         },
         "dev": "9108cb8b0e36b4bfffea699a02fb7d82",
         "events": [],
-        "hash": "6783f9874e1682f7c0dcf08a2e42b67b",
+        "hash": "4ba9d309ae872443126b824d587a5e2d",
         "indicators": [
             "chatters",
             "viewers"
@@ -367,7 +367,7 @@
         },
         "dev": "5fded0f97b31eb391e81e67e150ec081",
         "events": [],
-        "hash": "7071004673ffc38bb29d4b2756ccf652",
+        "hash": "f251e9dfd014aaae199379f95d1af1d8",
         "indicators": [
             "chatters",
             "viewers"
@@ -387,13 +387,13 @@
             "en": "In the field \"Channel\" it is necessary to insert the identifier of the channel. The channel identifier can be obtained from the reference channel, examples links:<br><br>https://www.twitch.tv/illidanstrdoto<br>Identifier: illidanstrdoto",
             "ru": "В поле \"Канал\" необходимо вставить идентификатор канала. Идентификатор канала можно получить из ссылки на канал, примеры ссылок:<br><br>https://www.twitch.tv/illidanstrdoto<br>Идентификатор: illidanstrdoto"
         },
-        "dev": "1e03e619c14a9859e975dc529300bfed",
+        "dev": "5573878a5baac50db448519c2d8b0de7",
         "events": [
             "follow",
             "join",
             "leave"
         ],
-        "hash": "4b52f9f262b1242e114c23d9eb861425",
+        "hash": "4bd0a671809f41e273a0c6c48cd188d2",
         "indicators": [
             "chatters",
             "viewers"
@@ -405,7 +405,7 @@
         "name": "Twitch",
         "ng": "1",
         "offer": true,
-        "version": 9
+        "version": 8
     },
     "vidi": {
         "available": false,
@@ -437,7 +437,7 @@
         },
         "dev": "95e86cc8ce54d2d65ec558bef4a3e38d",
         "events": [],
-        "hash": "d88832c29fca2ff00c7d22fba3fafbb6",
+        "hash": "39a734315b8a7f9c50a50e9d74653289",
         "indicators": [
             "chatters",
             "viewers"
@@ -481,7 +481,7 @@
         },
         "dev": "52dd23379864303a6e28a5dfe72f7de7",
         "events": [],
-        "hash": "f81c3a5887be8878e0a7d7e6f928567e",
+        "hash": "cb232593bedc4a1a76aa5271f6ba59cc",
         "indicators": [
             "chatters",
             "viewers"
