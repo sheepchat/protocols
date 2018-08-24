@@ -27,9 +27,9 @@
             "en": "In the field \"Channel\" it is necessary to insert the identifier of the channel. The channel identifier can be obtained from the reference channel, examples links:<br><br>http://cybergame.tv/atplay/<br>Identifier: atplay",
             "ru": "В поле \"Канал\" необходимо вставить идентификатор канала. Идентификатор канала можно получить из ссылки на канал, примеры ссылок:<br><br>http://cybergame.tv/atplay/<br>Идентификатор: atplay"
         },
-        "dev": "057a3821b693057a1b8992c2d6db7d31",
+        "dev": "2bc8f9b390ef31691f4d14342d746459",
         "events": [],
-        "hash": "4a64a8f5593a6b023b2198df32e5cd54",
+        "hash": "d05793767213e73942d78c1319acc6bc",
         "indicators": [
             "chatters",
             "viewers"
@@ -41,7 +41,7 @@
         "name": "CyberGame",
         "ng": "1",
         "offer": true,
-        "version": 3
+        "version": "2"
     },
     "donationalerts": {
         "available": true,
@@ -49,11 +49,11 @@
             "en": "In the Channel field, you must insert a secret toket. The token can be obtained from links to widgets, examples of links:<br><br>Http://www.donationalerts.ru/widget/alerts?token=eyzYMrqmW6Xx9Za8<br>Http://www.donationalerts.ru/widget/instream-stats?id=515861&token=eyzYMrqmW6Xx9Za8<br>Token: eyzymrqmw6xx9za8",
             "ru": "В поле \"Канал\" необходимо вставить секретный Токет. Токен можно получить из ссылок на виджеты, примеры ссылок:<br><br>http://www.donationalerts.ru/widget/alerts?token=eyzYMrqmW6Xx9Za8<br>http://www.donationalerts.ru/widget/instream-stats?id=515861&token=eyzYMrqmW6Xx9Za8<br>Токен: eyzYMrqmW6Xx9Za8"
         },
-        "dev": "fadf42608deb655b7c8f31d1e08f75d4",
+        "dev": "7555d55c48ed3ffd06cca8027588aa3e",
         "events": [
             "donate"
         ],
-        "hash": "ca671d6ee9f3b8acbdaaede9563a1ec8",
+        "hash": "702a04f2626fb617cd9d4980f17b8f35",
         "indicators": [
             "donations"
         ],
@@ -65,7 +65,7 @@
         "name": "DonationAlerts",
         "ng": "1",
         "offer": true,
-        "version": 2
+        "version": 1
     },
     "gamerstv": {
         "available": true,
@@ -73,9 +73,9 @@
             "en": "In the field \"Channel\" it is necessary to insert the identifier of the channel. The channel identifier can be obtained from the reference channel, examples links:<br><br>http://gamerstv.ru/video/i173.html<br>Identifier: i173",
             "ru": "В поле \"Канал\" необходимо вставить идентификатор канала. Идентификатор канала можно получить из ссылки на канал, примеры ссылок:<br><br>http://gamerstv.ru/video/i173.html<br>Идентификатор: i173"
         },
-        "dev": "f5907022c241807006b2d7b2138ab1a4",
+        "dev": "976f485591ef257ee363b9839902f1a0",
         "events": [],
-        "hash": "21c867542c7a03e560d8f4749825a462",
+        "hash": "434c274e8ef53e2e9378d1db19c8a204",
         "indicators": [
             "chatters",
             "viewers"
@@ -87,7 +87,7 @@
         "name": "GamersTV",
         "ng": "1",
         "offer": true,
-        "version": 3
+        "version": "2"
     },
     "gip": {
         "available": true,
@@ -95,9 +95,9 @@
             "en": "In the field \"Channel\" it is necessary to insert the identifier of the channel. The channel identifier can be obtained from the reference channel, examples links:<br><br>http://www.gipsyteam.ru/live/stream/9295-luchshe-pozzhe-chem-nikogda<br>Identifier: 9295-luchshe-pozzhe-chem-nikogda",
             "ru": "В поле \"Канал\" необходимо вставить идентификатор канала. Идентификатор канала можно получить из ссылки на канал, примеры ссылок:<br><br>http://www.gipsyteam.ru/live/stream/9295-luchshe-pozzhe-chem-nikogda<br>Идентификатор: 9295-luchshe-pozzhe-chem-nikogda"
         },
-        "dev": "7293d79a6132ee88872d0555b538450d",
+        "dev": "0500d03ff3517fe1f479552b6edf67ad",
         "events": [],
-        "hash": "78f90dfc010bedfd7029ac74264c89b3",
+        "hash": "f5409664d27890f45fc037023a216f82",
         "indicators": [
             "chatters",
             "viewers"
@@ -109,7 +109,7 @@
         "name": "GipsyTeam",
         "ng": "1",
         "offer": true,
-        "version": 4
+        "version": 3
     },
     "goodgame": {
         "available": true,
@@ -117,13 +117,13 @@
             "en": "In the field \"Channel\" it is necessary to insert the identifier of the channel. The channel identifier can be obtained from the reference channel, examples links:<br><br>http://goodgame.ru/channel/streamota/autoplay/<br>http://goodgame.ru/channel/streamota/<br>Identifier: streamota",
             "ru": "В поле \"Канал\" необходимо вставить идентификатор канала. Идентификатор канала можно получить из ссылки на канал, примеры ссылок:<br><br>http://goodgame.ru/channel/streamota/autoplay/<br>http://goodgame.ru/channel/streamota/<br>Идентификатор: streamota"
         },
-        "dev": "97cc6109af235ae903cd4a79ffa202d6",
+        "dev": "e470acccc3146e813357979c72a13017",
         "events": [
             "follow",
             "join",
             "leave"
         ],
-        "hash": "3701c5eb487dbe1dda68b0e7bae684b5",
+        "hash": "122146e1e01a51c8be453cfa0ec7a777",
         "indicators": [
             "chatters",
             "viewers"
@@ -135,7 +135,7 @@
         "name": "GoodGame",
         "ng": "1",
         "offer": true,
-        "version": 12
+        "version": 11
     },
     "mixer": {
         "available": true,
@@ -143,9 +143,9 @@
             "en": "In the field \"Channel\" it is necessary to insert the identifier of the channel. The channel identifier can be obtained from the reference channel, examples links:<br><br>https://mixer.com/HypeZoneFortnite<br>Identifier: HypeZoneFortnite",
             "ru": "В поле \"Канал\" необходимо вставить идентификатор канала. Идентификатор канала можно получить из ссылки на канал, примеры ссылок:<br><br>https://mixer.com/HypeZoneFortnite<br>Идентификатор: HypeZoneFortnite"
         },
-        "dev": "f79512718b12051b24d9773006ca1262",
+        "dev": "597a33b0ffafc88a365fe5c64431e44e",
         "events": [],
-        "hash": "98a9515184cada186e9c91a2f72e1e08",
+        "hash": "77602ae6296b7e1208e681cd9ca1ac1c",
         "indicators": [
             "chatters",
             "viewers"
@@ -157,7 +157,7 @@
         "name": "Mixer",
         "ng": "1",
         "offer": true,
-        "version": 3
+        "version": "2"
     },
     "mobcrush": {
         "available": true,
@@ -165,9 +165,9 @@
             "en": "In the field \"Channel\" it is necessary to insert the identifier of the channel. The channel identifier can be obtained from the reference channel, examples links:<br><br>https://www.mobcrush.com/L3oN<br>Identifier: L3oN",
             "ru": "В поле \"Канал\" необходимо вставить идентификатор канала. Идентификатор канала можно получить из ссылки на канал, примеры ссылок:<br><br>https://www.mobcrush.com/L3oN<br>Идентификатор: L3oN"
         },
-        "dev": "a1cd9b48d71e79d610dd8a32b15560ee",
+        "dev": "d151ba61bbfdee6fbcbbac74da037bb9",
         "events": [],
-        "hash": "111798d299f3b8cafc856d2fc1ba42c7",
+        "hash": "90091869685f586ed8884114bd0cd37e",
         "indicators": [
             "chatters",
             "viewers"
@@ -179,7 +179,7 @@
         "name": "Mobcrush",
         "ng": "1",
         "offer": true,
-        "version": 3
+        "version": "2"
     },
     "oklive": {
         "available": true,
@@ -187,9 +187,9 @@
             "en": "In the field \"Channel\" it is necessary to insert the identifier of the channel. The channel identifier can be obtained from the reference channel, examples links:<br><br>https://ok.ru/video/234285571618<br>Identifier: 234285571618",
             "ru": "В поле \"Канал\" необходимо вставить идентификатор канала. Идентификатор канала можно получить из ссылки на канал, примеры ссылок:<br><br>https://ok.ru/video/234285571618<br>Идентификатор: 234285571618"
         },
-        "dev": "33c374107bb9b73b55c21e8718970d23",
+        "dev": "d5a8dfbe1fc24a3823dcfda0c6cdeb1c",
         "events": [],
-        "hash": "ba62cf84d0fa82a87faadb54b8dda7d6",
+        "hash": "a63d2b3bf6bb1fc482e2e3d33ff6420d",
         "indicators": [
             "chatters",
             "viewers"
@@ -201,7 +201,7 @@
         "name": "Ok.ru (Odnoklassniki)",
         "ng": "1",
         "offer": true,
-        "version": 7
+        "version": 6
     },
     "peka2tv": {
         "available": true,
@@ -209,9 +209,9 @@
             "en": "In the field \"Channel\" it is necessary to insert the identifier of the channel. The channel identifier can be obtained from the reference channel, examples links:<br><br>http://peka2.tv/singollo<br>Identifier: singollo",
             "ru": "В поле \"Канал\" необходимо вставить идентификатор канала. Идентификатор канала можно получить из ссылки на канал, примеры ссылок:<br><br>http://peka2.tv/singollo<br>Идентификатор: singollo"
         },
-        "dev": "2a7ce54c3661f26259f252cb1b0f0ac2",
+        "dev": "e3eac90ccbc5ca35007b64be76835712",
         "events": [],
-        "hash": "c06f870d4d0c35d276046962ed5e81e7",
+        "hash": "b66254c75e80271b1bc1b39434c568fa",
         "indicators": [
             "chatters",
             "viewers"
@@ -223,7 +223,7 @@
         "name": "Peka2TV",
         "ng": "1",
         "offer": true,
-        "version": 5
+        "version": 4
     },
     "periscope": {
         "available": true,
@@ -232,9 +232,9 @@
             "en": "In the field \"Channel\" it is necessary to insert the identifier of the channel. The channel identifier can be obtained from the reference channel, examples links:<br><br>https://www.pscp.tv/w/1ypJdYALNAqxW<br>https://www.periscope.tv/w/1ypJdYALNAqxW?channel=featured-broadcasts<br>Identifier: 1ypJdYALNAqxW",
             "ru": "В поле \"Канал\" необходимо вставить идентификатор канала. Идентификатор канала можно получить из ссылки на канал, примеры ссылок:<br><br>https://www.pscp.tv/w/1ypJdYALNAqxW<br>https://www.periscope.tv/w/1ypJdYALNAqxW?channel=featured-broadcasts<br>Идентификатор: 1ypJdYALNAqxW"
         },
-        "dev": "a263159d316827cfb50a99db9a3c5467",
+        "dev": "649e843d2ab9076ad18f875c37a66657",
         "events": [],
-        "hash": "a5e6a6df59e3b7d42e4544cb71d12156",
+        "hash": "4612aeb3d4dbf70a029adc187ae4c398",
         "indicators": [
             "viewers"
         ],
@@ -247,7 +247,7 @@
         "ng": "1",
         "offer": true,
         "reinitiation": true,
-        "version": 2
+        "version": 1
     },
     "picarto": {
         "available": false,
@@ -299,9 +299,9 @@
             "en": "In the field \"Channel\" it is necessary to insert the identifier of the channel. The channel identifier can be obtained from the reference channel, examples links:<br><br>http://sc2tv.ru/channel/powernet<br>http://funstream.tv/stream/powernet<br>Identifier: powernet",
             "ru": "В поле \"Канал\" необходимо вставить идентификатор канала. Идентификатор канала можно получить из ссылки на канал, примеры ссылок:<br><br>http://sc2tv.ru/channel/powernet<br>http://funstream.tv/stream/powernet<br>Идентификатор: powernet"
         },
-        "dev": "ccb3b26c2196908116a4230cade2aebc",
+        "dev": "60be830762df4c47b82c3c4ee9229f8f",
         "events": [],
-        "hash": "4a3cc518e6c01842280666300a8a3a78",
+        "hash": "c0c562dc25c7c4e1760f946e18502474",
         "indicators": [
             "chatters",
             "viewers"
@@ -313,7 +313,7 @@
         "name": "SC2TV (Funstream.tv)",
         "ng": "1",
         "offer": true,
-        "version": 5
+        "version": 4
     },
     "smashcast": {
         "available": true,
@@ -321,9 +321,9 @@
             "en": "In the field \"Channel\" it is necessary to insert the identifier of the channel. The channel identifier can be obtained from the reference channel, examples links:<br><br>https://www.smashcast.tv/sheepchat<br>Identifier: sheepchat",
             "ru": "В поле \"Канал\" необходимо вставить идентификатор канала. Идентификатор канала можно получить из ссылки на канал, примеры ссылок:<br><br>https://www.smashcast.tv/sheepchat<br>Идентификатор: sheepchat"
         },
-        "dev": "4574b2f11bd67173760b4404112bd176",
+        "dev": "9108cb8b0e36b4bfffea699a02fb7d82",
         "events": [],
-        "hash": "b75597dd8e193553b28a1632c6d08e2d",
+        "hash": "275d66c29851a3a1a34a53728863ff5a",
         "indicators": [
             "chatters",
             "viewers"
@@ -335,7 +335,7 @@
         "name": "Smashcast",
         "ng": "1",
         "offer": true,
-        "version": 6
+        "version": 5
     },
     "smotri": {
         "available": false,
@@ -365,9 +365,9 @@
             "en": "In the field \"Channel\" it is necessary to insert the identifier of the channel. The channel identifier can be obtained from the reference channel, examples links:<br><br>https://streamcube.tv/blooddiamond59<br>Identifier: blooddiamond59",
             "ru": "В поле \"Канал\" необходимо вставить идентификатор канала. Идентификатор канала можно получить из ссылки на канал, примеры ссылок:<br><br>https://streamcube.tv/blooddiamond59<br>Идентификатор: blooddiamond59"
         },
-        "dev": "c380751e4a5060428d004df0f23faf53",
+        "dev": "5fded0f97b31eb391e81e67e150ec081",
         "events": [],
-        "hash": "5602171979925747d1e14a4ea6fef8a0",
+        "hash": "b2847688c3f28cec35e176796b62e8d2",
         "indicators": [
             "chatters",
             "viewers"
@@ -379,7 +379,7 @@
         "name": "StreamCube.tv",
         "ng": "1",
         "offer": true,
-        "version": 3
+        "version": "2"
     },
     "twitch": {
         "available": true,
@@ -387,13 +387,13 @@
             "en": "In the field \"Channel\" it is necessary to insert the identifier of the channel. The channel identifier can be obtained from the reference channel, examples links:<br><br>https://www.twitch.tv/illidanstrdoto<br>Identifier: illidanstrdoto",
             "ru": "В поле \"Канал\" необходимо вставить идентификатор канала. Идентификатор канала можно получить из ссылки на канал, примеры ссылок:<br><br>https://www.twitch.tv/illidanstrdoto<br>Идентификатор: illidanstrdoto"
         },
-        "dev": "2c282d0b06544d04c1b7de10448e0603",
+        "dev": "1e03e619c14a9859e975dc529300bfed",
         "events": [
             "follow",
             "join",
             "leave"
         ],
-        "hash": "6d3f4c18f4e374d199ca8bc2a97f0acc",
+        "hash": "8fcaea8f896cc3b70714e97bb8a9a35e",
         "indicators": [
             "chatters",
             "viewers"
@@ -405,7 +405,7 @@
         "name": "Twitch",
         "ng": "1",
         "offer": true,
-        "version": 10
+        "version": 9
     },
     "vidi": {
         "available": false,
@@ -435,9 +435,9 @@
             "en": "In the \"Channel\" field, you must insert a link to a profile, a community page, or a full link to the broadcast, examples links:<br><br>https://vk.com/video?z=video-62848000_456239029%2Fa11b69b5b14888d2c6%2Fpl_cat_lives<br>https://vk.com/video?z=video160865126_456239059%2Fpl_cat_lives",
             "ru": "В поле \"Канал\" необходимо вставить ссылку на профиль, страницу сообщества или полную ссылку на трансляцию, примеры ссылок:<br><br>https://vk.com/video?z=video-62848000_456239029%2Fa11b69b5b14888d2c6%2Fpl_cat_lives<br>https://vk.com/video?z=video160865126_456239059%2Fpl_cat_lives"
         },
-        "dev": "ce80ab1d75aa9f86492b82f6e580c15e",
+        "dev": "95e86cc8ce54d2d65ec558bef4a3e38d",
         "events": [],
-        "hash": "d2cfea3f81c82442ab34671149a0e6d2",
+        "hash": "cd3401d68aa991a3b70f7147c31c0011",
         "indicators": [
             "chatters",
             "viewers"
@@ -449,7 +449,7 @@
         "name": "VKLive",
         "ng": "1",
         "offer": true,
-        "version": 20
+        "version": 19
     },
     "vktopic": {
         "available": false,
@@ -479,9 +479,9 @@
             "en": "In the field \"Channel\" it is necessary to insert the full url to broadcasting or the channel, url will be automatically converted in the identifier. Also you can insert the identifier independently.",
             "ru": "В поле \"Канал\" необходимо вставить полную ссылку на трансляцию или канал, ссылка автоматически будет сконвертированна в идентификатор. Так же вы можете вставить идентификатор самостоятельно."
         },
-        "dev": "a606b603ca1231d2d203ad69ded0d6e6",
+        "dev": "52dd23379864303a6e28a5dfe72f7de7",
         "events": [],
-        "hash": "6d53184546623835cc51e0039c2d2788",
+        "hash": "a5cfde8798ab7abf9cf58d9ae7a99846",
         "indicators": [
             "chatters",
             "viewers"
@@ -493,6 +493,6 @@
         "name": "YouTube (& Gaming)",
         "ng": "1",
         "offer": true,
-        "version": 8
+        "version": 7
     }
 }
