@@ -29,7 +29,7 @@
         },
         "dev": "057a3821b693057a1b8992c2d6db7d31",
         "events": [],
-        "hash": "4387381b1d804fdfccc2ff2fbc3519c9",
+        "hash": "5735ba0f923e6cc7bcdd58f1aeb5047b",
         "indicators": [
             "chatters",
             "viewers"
@@ -53,7 +53,7 @@
         "events": [
             "donate"
         ],
-        "hash": "9fa08637e0ead09d21e97b3cda96f3c2",
+        "hash": "5d3c121ece10bb724eaaadcc200b21cf",
         "indicators": [
             "donations"
         ],
@@ -75,7 +75,7 @@
         },
         "dev": "f5907022c241807006b2d7b2138ab1a4",
         "events": [],
-        "hash": "4d96c7e8b177052d845c2049fa00e33b",
+        "hash": "f04c638396d4fdbea1a6405dc4c278fb",
         "indicators": [
             "chatters",
             "viewers"
@@ -97,7 +97,7 @@
         },
         "dev": "7293d79a6132ee88872d0555b538450d",
         "events": [],
-        "hash": "44c45e5a4129a4491a09a74fc60fb61a",
+        "hash": "b6b3a96ecbf5b3b1f01dc397d494b612",
         "indicators": [
             "chatters",
             "viewers"
@@ -123,7 +123,7 @@
             "join",
             "leave"
         ],
-        "hash": "cfd81e85f62568657323650bc71ad821",
+        "hash": "90cc218b3b614bce69271d60bd9d5c75",
         "indicators": [
             "chatters",
             "viewers"
@@ -145,7 +145,7 @@
         },
         "dev": "f79512718b12051b24d9773006ca1262",
         "events": [],
-        "hash": "cd0ad3788894e074ebc6313c03ad6b98",
+        "hash": "ce9f3f751050ebfb4e45ed427cdf806a",
         "indicators": [
             "chatters",
             "viewers"
@@ -167,7 +167,7 @@
         },
         "dev": "a1cd9b48d71e79d610dd8a32b15560ee",
         "events": [],
-        "hash": "208d0ca9e6953ff12dd80cb6679c332b",
+        "hash": "018ebf2493a71b10568da8dbfb6405a8",
         "indicators": [
             "chatters",
             "viewers"
@@ -189,7 +189,7 @@
         },
         "dev": "33c374107bb9b73b55c21e8718970d23",
         "events": [],
-        "hash": "d2331f6a8ff228dec4ad3a1d5c7750a8",
+        "hash": "17d929c99c768f7d5fa81008105eb04e",
         "indicators": [
             "chatters",
             "viewers"
@@ -211,7 +211,7 @@
         },
         "dev": "2a7ce54c3661f26259f252cb1b0f0ac2",
         "events": [],
-        "hash": "5ad98db1baa278b4cefcf874ac49381a",
+        "hash": "9cf9e207d00abba9511bc68e7acf68ba",
         "indicators": [
             "chatters",
             "viewers"
@@ -234,7 +234,7 @@
         },
         "dev": "a263159d316827cfb50a99db9a3c5467",
         "events": [],
-        "hash": "010f33782e6fcbfa3da1e3a83e2424ae",
+        "hash": "b94d4afee3ea4f7fa9061d600cd83c72",
         "indicators": [
             "viewers"
         ],
@@ -301,7 +301,7 @@
         },
         "dev": "ccb3b26c2196908116a4230cade2aebc",
         "events": [],
-        "hash": "bc0c957757229f2e843886bc4a2104b2",
+        "hash": "793d5c157018210f3408b8a229387e96",
         "indicators": [
             "chatters",
             "viewers"
@@ -323,7 +323,7 @@
         },
         "dev": "4574b2f11bd67173760b4404112bd176",
         "events": [],
-        "hash": "aa6950e606b11c953f05d1f994ad1902",
+        "hash": "e295bbb5fb795e0e68b5b36e275300e1",
         "indicators": [
             "chatters",
             "viewers"
@@ -367,7 +367,7 @@
         },
         "dev": "c380751e4a5060428d004df0f23faf53",
         "events": [],
-        "hash": "d103d31d2cc97788a6b677ca9611d053",
+        "hash": "0d74568692a45d323151f555c445f07d",
         "indicators": [
             "chatters",
             "viewers"
@@ -393,7 +393,7 @@
             "join",
             "leave"
         ],
-        "hash": "55d14e0cdd3d8321af0ff2d5a56f1a42",
+        "hash": "b9256550fe8e6a8ce9eea124eb2c174c",
         "indicators": [
             "chatters",
             "viewers"
@@ -435,9 +435,9 @@
             "en": "In the \"Channel\" field, you must insert a link to a profile, a community page, or a full link to the broadcast, examples links:<br><br>https://vk.com/video?z=video-62848000_456239029%2Fa11b69b5b14888d2c6%2Fpl_cat_lives<br>https://vk.com/video?z=video160865126_456239059%2Fpl_cat_lives",
             "ru": "В поле \"Канал\" необходимо вставить ссылку на профиль, страницу сообщества или полную ссылку на трансляцию, примеры ссылок:<br><br>https://vk.com/video?z=video-62848000_456239029%2Fa11b69b5b14888d2c6%2Fpl_cat_lives<br>https://vk.com/video?z=video160865126_456239059%2Fpl_cat_lives"
         },
-        "dev": "4ba0c1d0b756c25277e90af8666ab8a5",
+        "dev": "ce80ab1d75aa9f86492b82f6e580c15e",
         "events": [],
-        "hash": "11745162ce216c2c2ff954018a13901b",
+        "hash": "626827f08a2e6736a82ac465cadec746",
         "indicators": [
             "chatters",
             "viewers"
@@ -449,7 +449,7 @@
         "name": "VKLive",
         "ng": "1",
         "offer": true,
-        "version": 21
+        "version": 20
     },
     "vktopic": {
         "available": false,
@@ -481,7 +481,7 @@
         },
         "dev": "a606b603ca1231d2d203ad69ded0d6e6",
         "events": [],
-        "hash": "fc8b11c2fe56087bf556fc8ac1c130c2",
+        "hash": "f44447cffe6ba6a78bd02fdbef7b1e39",
         "indicators": [
             "chatters",
             "viewers"
