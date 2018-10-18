@@ -29,7 +29,7 @@
         },
         "dev": "057a3821b693057a1b8992c2d6db7d31",
         "events": [],
-        "hash": "bd0bd284bcb40f33ec1a680d0e926aa3",
+        "hash": "e539c67ae7e8885bc64ceff53452e65d",
         "indicators": [
             "chatters",
             "viewers"
@@ -53,7 +53,7 @@
         "events": [
             "donate"
         ],
-        "hash": "60f61ed2cc14997c436decb679c16d4b",
+        "hash": "0bf2720e3938528952f0e9e676430a0e",
         "indicators": [
             "donations"
         ],
@@ -77,7 +77,7 @@
         "events": [
             "donate"
         ],
-        "hash": "8b62ed400c8e9c9716aa58dbc88bbf8b",
+        "hash": "f6c1f3f5235986b231e8c3d7cafd3428",
         "indicators": [
             "donations"
         ],
@@ -97,9 +97,9 @@
             "en": "In the \"Channel\" field, you must insert a link to a video or profile.",
             "ru": "В поле \"Канал\" необходимо вставить ссылку на видео или профиль."
         },
-        "dev": "a7d1ef54d8d404e3d39db983a5ffacf2",
+        "dev": "862279547481095b42da256cc91a3356",
         "events": [],
-        "hash": "0e6cdd03829838b94a2a36340570149c",
+        "hash": "dc57d4847eec54c96b2483dbb6648dee",
         "indicators": [
             "chatters",
             "viewers"
@@ -112,7 +112,7 @@
         "name": "FaceBook",
         "ng": "1",
         "offer": true,
-        "version": 3
+        "version": 1
     },
     "gamerstv": {
         "available": true,
@@ -122,7 +122,7 @@
         },
         "dev": "f5907022c241807006b2d7b2138ab1a4",
         "events": [],
-        "hash": "5b6823fa9eb45833aac51f3b201d0927",
+        "hash": "1d662932145c2d509567dc897906bf75",
         "indicators": [
             "chatters",
             "viewers"
@@ -144,7 +144,7 @@
         },
         "dev": "7293d79a6132ee88872d0555b538450d",
         "events": [],
-        "hash": "2bcc29de4adffc44b78ae4c42562d30b",
+        "hash": "0a50dd2ee2586aa7cfa39b2b0329aa8e",
         "indicators": [
             "chatters",
             "viewers"
@@ -170,7 +170,7 @@
             "join",
             "leave"
         ],
-        "hash": "1c0816a3a25be2ae7dff514a0aad0545",
+        "hash": "5d59061f0975b33b7b8f0fd0f7a1dee0",
         "indicators": [
             "chatters",
             "viewers"
@@ -192,7 +192,7 @@
         },
         "dev": "f79512718b12051b24d9773006ca1262",
         "events": [],
-        "hash": "d4c0840c3fd849ff45c7eb9169c49bbf",
+        "hash": "a8e5f40499eb5b111508753921e96845",
         "indicators": [
             "chatters",
             "viewers"
@@ -214,7 +214,7 @@
         },
         "dev": "a1cd9b48d71e79d610dd8a32b15560ee",
         "events": [],
-        "hash": "a7b5e2896bb10eea8f91bac63e0dfcaf",
+        "hash": "2813939892a0e1f182617340cb0a405a",
         "indicators": [
             "chatters",
             "viewers"
@@ -236,7 +236,7 @@
         },
         "dev": "33c374107bb9b73b55c21e8718970d23",
         "events": [],
-        "hash": "334f34d21065746c669a3fe1188fa8c6",
+        "hash": "b1f13cb38bec106908ec49cb1fdd696d",
         "indicators": [
             "chatters",
             "viewers"
@@ -258,7 +258,7 @@
         },
         "dev": "a634ec9e8644161893c58fd56e4b8437",
         "events": [],
-        "hash": "df1a8261d8cdce158f188f2604258cfe",
+        "hash": "6f48bfe3309a7d6ff2f7ec0ef592e78e",
         "indicators": [
             "chatters",
             "viewers"
@@ -281,7 +281,7 @@
         },
         "dev": "a263159d316827cfb50a99db9a3c5467",
         "events": [],
-        "hash": "accd0f4f6ed91f63855fa8d31621ce47",
+        "hash": "f6e9d2663b1e487082b3e1caeed0edd4",
         "indicators": [
             "viewers"
         ],
@@ -348,7 +348,7 @@
         },
         "dev": "ccb3b26c2196908116a4230cade2aebc",
         "events": [],
-        "hash": "44d21b1272467f4086dc61eda286c071",
+        "hash": "7a7d0ea05c6e0c92df920299df698ed9",
         "indicators": [
             "chatters",
             "viewers"
@@ -370,7 +370,7 @@
         },
         "dev": "ee522dc72921f952d1dc1968b5bee66d",
         "events": [],
-        "hash": "fc17a858afa13a77f358fa9a5793b26a",
+        "hash": "d1bc9a25b5f89a23a0b8fee0ac187027",
         "indicators": [
             "chatters",
             "viewers"
@@ -414,7 +414,7 @@
         },
         "dev": "c380751e4a5060428d004df0f23faf53",
         "events": [],
-        "hash": "706a582c6bdf621707b6074d2eed784c",
+        "hash": "610cbb026d61ac08e0ba2ad73b885a47",
         "indicators": [
             "chatters",
             "viewers"
@@ -440,7 +440,7 @@
             "join",
             "leave"
         ],
-        "hash": "23f4551e8ef87b8dc8190a70042dd61c",
+        "hash": "fc20b5795d4f9e5e847dfdba72ca9319",
         "indicators": [
             "chatters",
             "viewers"
@@ -482,9 +482,9 @@
             "en": "In the \"Channel\" field, you must insert a link to a profile, a community page, or a full link to the broadcast, examples links:<br><br>https://vk.com/video?z=video-62848000_456239029%2Fa11b69b5b14888d2c6%2Fpl_cat_lives<br>https://vk.com/video?z=video160865126_456239059%2Fpl_cat_lives",
             "ru": "В поле \"Канал\" необходимо вставить ссылку на профиль, страницу сообщества или полную ссылку на трансляцию, примеры ссылок:<br><br>https://vk.com/video?z=video-62848000_456239029%2Fa11b69b5b14888d2c6%2Fpl_cat_lives<br>https://vk.com/video?z=video160865126_456239059%2Fpl_cat_lives"
         },
-        "dev": "e217d20bd4214b9bafb90a87bf69d0db",
+        "dev": "29d2dfceaa8e84a5688b731b44c502b6",
         "events": [],
-        "hash": "f9a324762ba48bc545c74e407e47fb48",
+        "hash": "a36cd17a9b4daa2a016d0d6329b8582f",
         "indicators": [
             "chatters",
             "viewers"
@@ -496,7 +496,7 @@
         "name": "VKLive",
         "ng": "1",
         "offer": true,
-        "version": 24
+        "version": 22
     },
     "vktopic": {
         "available": false,
@@ -528,7 +528,7 @@
         },
         "dev": "a606b603ca1231d2d203ad69ded0d6e6",
         "events": [],
-        "hash": "59f1689acacddaf4c4435cdea14cd0ae",
+        "hash": "77622a5d46196a56e152129bddb40ec1",
         "indicators": [
             "chatters",
             "viewers"
