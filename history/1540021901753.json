@@ -29,7 +29,7 @@
         },
         "dev": "057a3821b693057a1b8992c2d6db7d31",
         "events": [],
-        "hash": "0002b78898c29ecad04c36bfde2c6c13",
+        "hash": "64548bcebce80149c3f5a91f1de75555",
         "indicators": [
             "chatters",
             "viewers"
@@ -53,7 +53,7 @@
         "events": [
             "donate"
         ],
-        "hash": "c05dd495229d036deec8da546a73a62f",
+        "hash": "a12ebf6849132b396bf70affd4a4eb63",
         "indicators": [
             "donations"
         ],
@@ -77,7 +77,7 @@
         "events": [
             "donate"
         ],
-        "hash": "4b5e9aa7c3f4885d845f4e4b2745cb12",
+        "hash": "79eedcf7ce0506c0b19506bedaba8b73",
         "indicators": [
             "donations"
         ],
@@ -91,6 +91,32 @@
         "offer": true,
         "version": 3
     },
+    "streamlabs": {
+        "available": true,
+        "desc": {
+            "en": "In the \"Channel\" field, you must insert a link to the alert box.<br>The link to the widget can be obtained on the page <a href='https://streamlabs.com/dashboard#/alertbox'>https://streamlabs.com/dashboard#/alertbox</a>",
+            "ru": "В поле \"Канал\" необходимо вставить ссылку на виджет оповещений (Alert Box).<br>Ссылку на виджет можно получить на странице <a href='https://streamlabs.com/dashboard#/alertbox'>https://streamlabs.com/dashboard#/alertbox</a>"
+        },
+        "dev": "49ebfa701880cbd56ad88aba03cb5dc6",
+        "events": [
+            "follow",
+            "subscribe",
+            "donate"
+        ],
+        "hash": "79eedcf7ce0506c0b19506bedaba8b73",
+        "indicators": [
+            "donations"
+        ],
+        "locale_name": {
+            "en": "TwitchAlerts (StreamLabs)",
+            "ru": "TwitchAlerts (StreamLabs)"
+        },
+        "lv": "14",
+        "name": "TwitchAlerts (StreamLabs)",
+        "ng": "1",
+        "offer": true,
+        "version": 3
+    },
     "facebook": {
         "available": true,
         "desc": {
@@ -99,7 +125,7 @@
         },
         "dev": "a7d1ef54d8d404e3d39db983a5ffacf2",
         "events": [],
-        "hash": "b5a133c522c3df312f59cd6ad6953603",
+        "hash": "9d4a36d775011dfd71d132adaab40947",
         "indicators": [
             "chatters",
             "viewers"
@@ -122,7 +148,7 @@
         },
         "dev": "f5907022c241807006b2d7b2138ab1a4",
         "events": [],
-        "hash": "c6a03a871657514e00312dcb46b8f917",
+        "hash": "4986727b611a1659d8e378d9f1d36b88",
         "indicators": [
             "chatters",
             "viewers"
@@ -144,7 +170,7 @@
         },
         "dev": "7293d79a6132ee88872d0555b538450d",
         "events": [],
-        "hash": "178bd142548aade21f662c7c784ce724",
+        "hash": "d50dd559b2f4b1059809c34a93293060",
         "indicators": [
             "chatters",
             "viewers"
@@ -170,7 +196,7 @@
             "join",
             "leave"
         ],
-        "hash": "747138d738a8d5275024f3c8329681e9",
+        "hash": "da14d6952f973dce15e2684621d365f4",
         "indicators": [
             "chatters",
             "viewers"
@@ -192,7 +218,7 @@
         },
         "dev": "f79512718b12051b24d9773006ca1262",
         "events": [],
-        "hash": "86de239d44fcf5bfe017be3a63faa4fe",
+        "hash": "2fa5dd08cd545973dd6dc7988e3285d9",
         "indicators": [
             "chatters",
             "viewers"
@@ -214,7 +240,7 @@
         },
         "dev": "a1cd9b48d71e79d610dd8a32b15560ee",
         "events": [],
-        "hash": "2ddad062cf1bf849661e33cf2799261a",
+        "hash": "15eb01c373556df55ce297da6abc72c0",
         "indicators": [
             "chatters",
             "viewers"
@@ -236,7 +262,7 @@
         },
         "dev": "33c374107bb9b73b55c21e8718970d23",
         "events": [],
-        "hash": "341b9b8387ebe5ccb9e9a33c6acca1b9",
+        "hash": "98255b04a285b8d8ecdcbbe840beeeca",
         "indicators": [
             "chatters",
             "viewers"
@@ -258,7 +284,7 @@
         },
         "dev": "a634ec9e8644161893c58fd56e4b8437",
         "events": [],
-        "hash": "daa684577a73072e324a7592bb4bb8f7",
+        "hash": "f5d76690e0340f6e1997942d9eeb51f2",
         "indicators": [
             "chatters",
             "viewers"
@@ -281,7 +307,7 @@
         },
         "dev": "a263159d316827cfb50a99db9a3c5467",
         "events": [],
-        "hash": "51198c695aae05ce1dbbd0213214cb9f",
+        "hash": "a96dcc2908495e14a07c829526bccb0f",
         "indicators": [
             "viewers"
         ],
@@ -348,7 +374,7 @@
         },
         "dev": "ccb3b26c2196908116a4230cade2aebc",
         "events": [],
-        "hash": "4cd505cc82fd8f0673c8ec03ccd3eb90",
+        "hash": "97751ca59db3a0d356a47443f7ccf657",
         "indicators": [
             "chatters",
             "viewers"
@@ -370,7 +396,7 @@
         },
         "dev": "ee522dc72921f952d1dc1968b5bee66d",
         "events": [],
-        "hash": "9447d698b3f8919279c3ccb14b4b1bf4",
+        "hash": "de5b1f65e4460419ff578f6d037679f9",
         "indicators": [
             "chatters",
             "viewers"
@@ -414,7 +440,7 @@
         },
         "dev": "c380751e4a5060428d004df0f23faf53",
         "events": [],
-        "hash": "08f8ae02dd49d8bd952ae5b617fb81d0",
+        "hash": "5ee4df0deb630ca2cc3b6b08e8665561",
         "indicators": [
             "chatters",
             "viewers"
@@ -428,32 +454,6 @@
         "offer": true,
         "version": 3
     },
-    "streamlabs": {
-        "available": true,
-        "desc": {
-            "en": "In the \"Channel\" field, you must insert a link to the alert box.<br>The link to the widget can be obtained on the page <a href='https://streamlabs.com/dashboard#/alertbox'>https://streamlabs.com/dashboard#/alertbox</a>",
-            "ru": "В поле \"Канал\" необходимо вставить ссылку на виджет оповещений (Alert Box).<br>Ссылку на виджет можно получить на странице <a href='https://streamlabs.com/dashboard#/alertbox'>https://streamlabs.com/dashboard#/alertbox</a>"
-        },
-        "dev": "c7483b56110520e8e6974e3b21febd9c",
-        "events": [
-            "follow",
-            "subscribe",
-            "donate"
-        ],
-        "hash": "62deec66c2a1e1936352d7aa8120bfc8",
-        "indicators": [
-            "donations"
-        ],
-        "locale_name": {
-            "en": "TwitchAlerts (StreamLabs)",
-            "ru": "TwitchAlerts (StreamLabs)"
-        },
-        "lv": "14",
-        "name": "TwitchAlerts (StreamLabs)",
-        "ng": "1",
-        "offer": true,
-        "version": 4
-    },
     "twitch": {
         "available": true,
         "desc": {
@@ -466,7 +466,7 @@
             "join",
             "leave"
         ],
-        "hash": "03085bd9d3019575cc50086fbcb66dad",
+        "hash": "e6487303e097f54d2bc6776750c9fd5c",
         "indicators": [
             "chatters",
             "viewers"
@@ -510,7 +510,7 @@
         },
         "dev": "cf85e5085ebf5ff006d0e0beeac2cccf",
         "events": [],
-        "hash": "384a6bfd4ede94f05e70e1bc8ffa662e",
+        "hash": "2da0b59e04df09a129a3e5ca188b910f",
         "indicators": [
             "chatters",
             "viewers"
@@ -554,7 +554,7 @@
         },
         "dev": "a606b603ca1231d2d203ad69ded0d6e6",
         "events": [],
-        "hash": "002c6d94fdd607f1713e5ebd87ee4ec4",
+        "hash": "d7d24e93a4e64460e71fc16efccdce64",
         "indicators": [
             "chatters",
             "viewers"
