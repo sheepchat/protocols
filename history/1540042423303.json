@@ -29,7 +29,7 @@
         },
         "dev": "057a3821b693057a1b8992c2d6db7d31",
         "events": [],
-        "hash": "cee07319a79e408ac390a9bc8417b00a",
+        "hash": "557a66a2c123ee6e327f89dcf3d3a41c",
         "indicators": [
             "chatters",
             "viewers"
@@ -49,11 +49,11 @@
             "en": "In the \"Channel\" field, you must insert the API key from the page <a href='http://donatepay.ru/page/api' class='open_external'>http://donatepay.ru/page/api</a><br>To test the service, add a new transaction on the <a href='http://donatepay.ru/billing/transactions' class='open_external'>http://donatepay.ru/billing/transactions</a> page.",
             "ru": "В поле \"Канал\" необходимо вставить API ключ со страницы <a href='http://donatepay.ru/page/api' class='open_external'>http://donatepay.ru/page/api</a><br>Что бы проверить работу сервиса, добавьте на странице <a href='http://donatepay.ru/billing/transactions' class='open_external'>http://donatepay.ru/billing/transactions</a> новую транзакцию."
         },
-        "dev": "61110a9d612e5e008747cc1b868aec82",
+        "dev": "2ffa79d4bee458099f0914d547653d8c",
         "events": [
             "donate"
         ],
-        "hash": "fb8202766f8704945622f3c996332d59",
+        "hash": "fbd768b63def084015bfc7d1321d5fbc",
         "indicators": [
             "donations"
         ],
@@ -65,7 +65,7 @@
         "name": "DonatePay",
         "ng": "1",
         "offer": true,
-        "version": 4
+        "version": 3
     },
     "donationalerts": {
         "available": true,
@@ -73,11 +73,11 @@
             "en": "In the Channel field, you must insert a secret toket. The token can be obtained from links to widgets, examples of links:<br><br>http://www.donationalerts.ru/widget/alerts?token=eyzYMrqmW6Xx9Za8<br>http://www.donationalerts.ru/widget/instream-stats?id=515861&token=eyzYMrqmW6Xx9Za8<br>Token: eyzymrqmw6xx9za8",
             "ru": "В поле \"Канал\" необходимо вставить секретный Токет. Токен можно получить из ссылок на виджеты, примеры ссылок:<br><br>http://www.donationalerts.ru/widget/alerts?token=eyzYMrqmW6Xx9Za8<br>http://www.donationalerts.ru/widget/instream-stats?id=515861&token=eyzYMrqmW6Xx9Za8<br>Токен: eyzYMrqmW6Xx9Za8"
         },
-        "dev": "7ff4b236fe077f7a5417f82cefdc284c",
+        "dev": "49ebfa701880cbd56ad88aba03cb5dc6",
         "events": [
             "donate"
         ],
-        "hash": "1be15c076545a648b915bfc94ff01ebd",
+        "hash": "566a9a2fb7fda9821d5a7d174640e622",
         "indicators": [
             "donations"
         ],
@@ -89,7 +89,7 @@
         "name": "DonationAlerts",
         "ng": "1",
         "offer": true,
-        "version": 4
+        "version": 3
     },
     "facebook": {
         "available": true,
@@ -99,7 +99,7 @@
         },
         "dev": "a7d1ef54d8d404e3d39db983a5ffacf2",
         "events": [],
-        "hash": "5ec0c0525909768a85a90d433e3caa00",
+        "hash": "f553a1e5fe5154244449195716321075",
         "indicators": [
             "chatters",
             "viewers"
@@ -122,7 +122,7 @@
         },
         "dev": "f5907022c241807006b2d7b2138ab1a4",
         "events": [],
-        "hash": "df493350719157cc8672e27b4141b83d",
+        "hash": "862833e9a45be92f633730d01d0e1c32",
         "indicators": [
             "chatters",
             "viewers"
@@ -144,7 +144,7 @@
         },
         "dev": "7293d79a6132ee88872d0555b538450d",
         "events": [],
-        "hash": "5c8b5c3ded640bc4afc12db531b9898a",
+        "hash": "d1170b10d8a0bfca01bea5ea665ab7ca",
         "indicators": [
             "chatters",
             "viewers"
@@ -170,7 +170,7 @@
             "join",
             "leave"
         ],
-        "hash": "432ea63153cfa0cfb2a0ccd9f0726f5a",
+        "hash": "57bf7f5d14bf567771e5bf0e29ebb6ba",
         "indicators": [
             "chatters",
             "viewers"
@@ -192,7 +192,7 @@
         },
         "dev": "f79512718b12051b24d9773006ca1262",
         "events": [],
-        "hash": "2bbdbc4b520ffcacf8af554735494168",
+        "hash": "c8fdea41f52ac9023db1912c85572150",
         "indicators": [
             "chatters",
             "viewers"
@@ -214,7 +214,7 @@
         },
         "dev": "a1cd9b48d71e79d610dd8a32b15560ee",
         "events": [],
-        "hash": "d12cf487011837bf9d2ed70442638ab8",
+        "hash": "a7812e5759cf9adf51cca137ab91f0ef",
         "indicators": [
             "chatters",
             "viewers"
@@ -236,7 +236,7 @@
         },
         "dev": "33c374107bb9b73b55c21e8718970d23",
         "events": [],
-        "hash": "3b785295fab8929afecd500664aeca5b",
+        "hash": "0f78b2fe592edc5e982f87977b26c79e",
         "indicators": [
             "chatters",
             "viewers"
@@ -258,7 +258,7 @@
         },
         "dev": "a634ec9e8644161893c58fd56e4b8437",
         "events": [],
-        "hash": "c43da1a0acf7a03489ef2f5497e16742",
+        "hash": "490c2c4961f9d8b9392cf6857e31358c",
         "indicators": [
             "chatters",
             "viewers"
@@ -281,7 +281,7 @@
         },
         "dev": "a263159d316827cfb50a99db9a3c5467",
         "events": [],
-        "hash": "c550004f064b9aeac8477ad483f5c1a8",
+        "hash": "59caa5c74040f7c4f3cd6c81ce9c6034",
         "indicators": [
             "viewers"
         ],
@@ -348,7 +348,7 @@
         },
         "dev": "ccb3b26c2196908116a4230cade2aebc",
         "events": [],
-        "hash": "86ec26410148f463c72dbd90d86fca7c",
+        "hash": "a0689544fde13f3e7877dcf1bc0e8729",
         "indicators": [
             "chatters",
             "viewers"
@@ -370,7 +370,7 @@
         },
         "dev": "ee522dc72921f952d1dc1968b5bee66d",
         "events": [],
-        "hash": "000f0ab96059ad012cd7d0a9e9378a83",
+        "hash": "d90697df9b32968fef653de6294283e8",
         "indicators": [
             "chatters",
             "viewers"
@@ -414,7 +414,7 @@
         },
         "dev": "c380751e4a5060428d004df0f23faf53",
         "events": [],
-        "hash": "80c86c5c6711b7f762595961f0ede456",
+        "hash": "e6861dac25e6bee82f98dfafaa6325c8",
         "indicators": [
             "chatters",
             "viewers"
@@ -434,13 +434,13 @@
             "en": "In the \"Channel\" field, you must insert a link to the alert box.<br>The link to the widget can be obtained on the page <a href='https://streamlabs.com/dashboard#/alertbox' class='open_external'>https://streamlabs.com/dashboard#/alertbox</a>",
             "ru": "В поле \"Канал\" необходимо вставить ссылку на виджет оповещений (Alert Box).<br>Ссылку на виджет можно получить на странице <a href='https://streamlabs.com/dashboard#/alertbox' class='open_external'>https://streamlabs.com/dashboard#/alertbox</a>"
         },
-        "dev": "09f4fd5e26ea77a0dcd4a8d49365165b",
+        "dev": "c7483b56110520e8e6974e3b21febd9c",
         "events": [
             "follow",
             "subscribe",
             "donate"
         ],
-        "hash": "b1b3949cfb435364fd71ff3aae1f6a14",
+        "hash": "b12f8ffe6bdaa9b0845b94af392140e5",
         "indicators": [
             "donations"
         ],
@@ -452,7 +452,7 @@
         "name": "TwitchAlerts (StreamLabs)",
         "ng": "1",
         "offer": true,
-        "version": 5
+        "version": 4
     },
     "twitch": {
         "available": true,
@@ -466,7 +466,7 @@
             "join",
             "leave"
         ],
-        "hash": "672d777c82243d7deee12f96607f3a64",
+        "hash": "9ac60625d04f93dd6d63d0f454547044",
         "indicators": [
             "chatters",
             "viewers"
@@ -510,7 +510,7 @@
         },
         "dev": "cf85e5085ebf5ff006d0e0beeac2cccf",
         "events": [],
-        "hash": "f8a7cb91d2b5456463fe4d184f690440",
+        "hash": "b9d67fa203c74732b1ea7809e2b4725e",
         "indicators": [
             "chatters",
             "viewers"
@@ -554,7 +554,7 @@
         },
         "dev": "a606b603ca1231d2d203ad69ded0d6e6",
         "events": [],
-        "hash": "d8b2f789f8b1aefeb9469e6f19b5c242",
+        "hash": "33929eb7bb71494461505e07e6fca2fa",
         "indicators": [
             "chatters",
             "viewers"
