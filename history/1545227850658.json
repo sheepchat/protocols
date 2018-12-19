@@ -29,7 +29,7 @@
         },
         "dev": "057a3821b693057a1b8992c2d6db7d31",
         "events": [],
-        "hash": "41fc364dda1b02f918bcae44e7ba61f4",
+        "hash": "1cfacb1ce83e4a8ddd2ac731966718d2",
         "indicators": [
             "chatters",
             "viewers"
@@ -53,7 +53,7 @@
         "events": [
             "donate"
         ],
-        "hash": "3c4f394b008eb085dab94d1141b9eb71",
+        "hash": "5af10ba0e3e1ccf4fea6032866492750",
         "indicators": [
             "donations"
         ],
@@ -78,7 +78,7 @@
         "events": [
             "donate"
         ],
-        "hash": "f556e1338ea501424857c66a73abcc85",
+        "hash": "8b7f271f73bf0883effc47989ea4da27",
         "indicators": [
             "donations"
         ],
@@ -101,7 +101,7 @@
         },
         "dev": "a7d1ef54d8d404e3d39db983a5ffacf2",
         "events": [],
-        "hash": "2ae2ec1f26eb8fec425f7046ab85c58a",
+        "hash": "022b60da97baea09eb5ff04b3bc0dad3",
         "indicators": [
             "chatters",
             "viewers"
@@ -124,7 +124,7 @@
         },
         "dev": "f5907022c241807006b2d7b2138ab1a4",
         "events": [],
-        "hash": "9dc328c120dde6d3b6817f35ff334b74",
+        "hash": "278a43feafa1e463a6450b9a31609440",
         "indicators": [
             "chatters",
             "viewers"
@@ -146,7 +146,7 @@
         },
         "dev": "7293d79a6132ee88872d0555b538450d",
         "events": [],
-        "hash": "8d3ebe09b5f14fc43429cc163943a14e",
+        "hash": "406ea201aaf02037cbdca1ef3dc091e0",
         "indicators": [
             "chatters",
             "viewers"
@@ -172,7 +172,7 @@
             "join",
             "leave"
         ],
-        "hash": "66a145085245720590d194a99c494bd9",
+        "hash": "371b1075498a1d19e6618fbe7314daa9",
         "indicators": [
             "chatters",
             "viewers"
@@ -194,7 +194,7 @@
         },
         "dev": "f79512718b12051b24d9773006ca1262",
         "events": [],
-        "hash": "dbdffe19af28034c01e3dddf342b584c",
+        "hash": "0a184c0215870385851338797b853d64",
         "indicators": [
             "chatters",
             "viewers"
@@ -216,7 +216,7 @@
         },
         "dev": "a1cd9b48d71e79d610dd8a32b15560ee",
         "events": [],
-        "hash": "7c1b92dcd6f27a73fab78f6bdbc8dec3",
+        "hash": "9e845a013e1f0faf08fd2ca1c28849c3",
         "indicators": [
             "chatters",
             "viewers"
@@ -238,7 +238,7 @@
         },
         "dev": "33c374107bb9b73b55c21e8718970d23",
         "events": [],
-        "hash": "200bef82b325a4a502f73ed5599a9640",
+        "hash": "5ee87050fd93dc3d25e3a423d32c2120",
         "indicators": [
             "chatters",
             "viewers"
@@ -260,7 +260,7 @@
         },
         "dev": "a634ec9e8644161893c58fd56e4b8437",
         "events": [],
-        "hash": "c248bfb03a5a51d1c4f595499b4a0e29",
+        "hash": "a04a4651f12003ab8737e9906703eaa1",
         "indicators": [
             "chatters",
             "viewers"
@@ -283,7 +283,7 @@
         },
         "dev": "a263159d316827cfb50a99db9a3c5467",
         "events": [],
-        "hash": "cfc506a7a734b5d392deece07cefb339",
+        "hash": "0a4501b05ce889d6ed707bb0803ca8b3",
         "indicators": [
             "viewers"
         ],
@@ -350,7 +350,7 @@
         },
         "dev": "ccb3b26c2196908116a4230cade2aebc",
         "events": [],
-        "hash": "d6d5f5f8fb225141d60a9271f676ab10",
+        "hash": "9a7f8dbae0d03bd64732102ab5cccf66",
         "indicators": [
             "chatters",
             "viewers"
@@ -372,7 +372,7 @@
         },
         "dev": "ee522dc72921f952d1dc1968b5bee66d",
         "events": [],
-        "hash": "2e99693614829b0791f87ae04a865393",
+        "hash": "3d953e3117539f9bafde2db1a99dd95b",
         "indicators": [
             "chatters",
             "viewers"
@@ -414,12 +414,12 @@
             "en": "In the \"Channel\" field, you must insert a link to the broadcast, for example:<br>https://steamcommunity.com/broadcast/watch/76561198120781882/",
             "ru": "В поле \"Канал\" необходимо вставить ссылку на трансляцию, пример:<br>https://steamcommunity.com/broadcast/watch/76561198120781882/"
         },
-        "dev": "bbe68d0c228c2d1be402829d32dad2d3",
+        "dev": "c6ce857b4d914945204e080c25c3ab66",
         "events": [
             "join",
             "leave"
         ],
-        "hash": "541a6cf31f355e6605e31518070655a5",
+        "hash": "c9f5c6c5c3ba1c2bc590629387e3b014",
         "indicators": [
             "chatters",
             "viewers"
@@ -432,7 +432,7 @@
         "name": "Steam Broadcast",
         "ng": "1",
         "offer": true,
-        "version": 2
+        "version": 1
     },
     "streamcube": {
         "available": true,
@@ -442,7 +442,7 @@
         },
         "dev": "c380751e4a5060428d004df0f23faf53",
         "events": [],
-        "hash": "d6a2516f30dee73afb30031422d66e22",
+        "hash": "78fc9c8cbae75dae970af8da3f9d6e6f",
         "indicators": [
             "chatters",
             "viewers"
@@ -468,7 +468,7 @@
             "subscribe",
             "donate"
         ],
-        "hash": "4da027571b0039e2a7fb2ab259ac56d3",
+        "hash": "f2eff9f6f283b92dce54a3457c6baf7f",
         "indicators": [
             "donations"
         ],
@@ -495,7 +495,7 @@
             "join",
             "leave"
         ],
-        "hash": "b6872e7f34ddf69b96e0fd153c23625a",
+        "hash": "f54e31c5f766ee548fb7fadb27fc8aaa",
         "indicators": [
             "chatters",
             "viewers"
@@ -539,7 +539,7 @@
         },
         "dev": "cf85e5085ebf5ff006d0e0beeac2cccf",
         "events": [],
-        "hash": "48da182324e53d55a81f51ad2e412959",
+        "hash": "63f1511b700db3fb6c16c30ca5bfa407",
         "indicators": [
             "chatters",
             "viewers"
@@ -583,7 +583,7 @@
         },
         "dev": "c72199c5efc1e01522e6c5d1ad9d96e6",
         "events": [],
-        "hash": "db15648bf393cd73531b10d6d7a86596",
+        "hash": "f15c9e04cffc3482044faca0b3ad4d07",
         "indicators": [
             "chatters",
             "viewers"
