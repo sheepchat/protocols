@@ -29,7 +29,7 @@
         },
         "dev": "8ed68062e6e815ef15683eae6180f58e",
         "events": [],
-        "hash": "f25a1e4079ca3dfa368e4c5d53ea7e0e",
+        "hash": "46b4755cac87b062ccc35f7fad2d115b",
         "indicators": [
             "chatters",
             "viewers"
@@ -43,29 +43,6 @@
         "offer": true,
         "version": 4
     },
-    "dlive": {
-        "available": true,
-        "desc": {
-            "en": "In the field \"Channel\" it is necessary to insert the identifier of the channel. The channel identifier can be obtained from the reference channel, examples links:<br><br>https://dlive.tv/nebel<br>Identifier: nebel",
-            "ru": "В поле \"Канал\" необходимо вставить идентификатор канала. Идентификатор канала можно получить из ссылки на канал, примеры ссылок:<br><br>https://dlive.tv/nebel<br>Идентификатор: nebel"
-        },
-        "dev": "32ffffe3039fad5a644e666e5a7f7bbc",
-        "events": [],
-        "hash": "9cb44c29fbbd05234c99214fe0160d33",
-        "indicators": [
-            "chatters",
-            "viewers"
-        ],
-        "locale_name": {
-            "en": "DLive",
-            "ru": "DLive"
-        },
-        "lv": "13",
-        "name": "DLive",
-        "ng": "1",
-        "offer": true,
-        "version": 2
-    },
     "donatepay": {
         "available": true,
         "desc": {
@@ -76,7 +53,7 @@
         "events": [
             "donate"
         ],
-        "hash": "4bb1938c630b62201f3f181d468796e6",
+        "hash": "38065a7a27e0ae22dedb155421e76cbb",
         "indicators": [
             "donations"
         ],
@@ -101,7 +78,7 @@
         "events": [
             "donate"
         ],
-        "hash": "b85ce8a002b1103d34a4d3343a8ad428",
+        "hash": "689437b7fe497c5d6aadff06687aa10b",
         "indicators": [
             "donations"
         ],
@@ -116,6 +93,29 @@
         "service": "noty",
         "version": 4
     },
+    "dlive": {
+        "available": true,
+        "desc": {
+            "en": "In the field \"Channel\" it is necessary to insert the identifier of the channel. The channel identifier can be obtained from the reference channel, examples links:<br><br>https://dlive.tv/nebel<br>Identifier: nebel",
+            "ru": "В поле \"Канал\" необходимо вставить идентификатор канала. Идентификатор канала можно получить из ссылки на канал, примеры ссылок:<br><br>https://dlive.tv/nebel<br>Идентификатор: nebel"
+        },
+        "dev": "",
+        "events": [],
+        "hash": "",
+        "indicators": [
+            "chatters",
+            "viewers"
+        ],
+        "locale_name": {
+            "en": "DLive",
+            "ru": "DLive"
+        },
+        "lv": "13",
+        "name": "DLive",
+        "ng": "1",
+        "offer": true,
+        "version": 1
+    },
     "facebook": {
         "available": true,
         "desc": {
@@ -124,7 +124,7 @@
         },
         "dev": "f584e0522b1ec69bf8bf566082ace731",
         "events": [],
-        "hash": "76af79c5fce91684373c2fc73ee8054d",
+        "hash": "fd66e1d66e322e561b98aa5111d4b9b2",
         "indicators": [
             "chatters",
             "viewers"
@@ -147,7 +147,7 @@
         },
         "dev": "7cdd761b2661c6f3f06b1286a2c13b51",
         "events": [],
-        "hash": "72cb4a557f391184cdde1f359c40208e",
+        "hash": "08188c02cc6fb962a5105211e436d820",
         "indicators": [
             "chatters",
             "viewers"
@@ -169,7 +169,7 @@
         },
         "dev": "2569786cffcbc51f369587256cacb4d9",
         "events": [],
-        "hash": "f4356dfa27be2b9927238358e070a986",
+        "hash": "9a49574a297516faf96bc61aa73a6096",
         "indicators": [
             "chatters",
             "viewers"
@@ -195,7 +195,7 @@
             "join",
             "leave"
         ],
-        "hash": "6612a84068d21406f907494a93482a08",
+        "hash": "e7ba8382fb7d9ce6173f89ae1671bd6c",
         "indicators": [
             "chatters",
             "viewers"
@@ -217,7 +217,7 @@
         },
         "dev": "1acc7230ef0901a2188972369cb2aeb1",
         "events": [],
-        "hash": "5d311f1a6ac694a556922957d7aec64f",
+        "hash": "572e3d55c16a3a92d35b1dd15a1d814a",
         "indicators": [
             "chatters",
             "viewers"
@@ -239,7 +239,7 @@
         },
         "dev": "29f5de3f30b0470ad25e64ffcbba88bd",
         "events": [],
-        "hash": "67b6ee533a584a6a87782650270e9248",
+        "hash": "4011ba312fd40ad951b989f2d440ff5c",
         "indicators": [
             "chatters",
             "viewers"
@@ -261,7 +261,7 @@
         },
         "dev": "0c72f660d82f4da45d0796f07aee5a5d",
         "events": [],
-        "hash": "b2c34290b0e1baed77741aa69034900f",
+        "hash": "950524d67a7ac621fb64cc19b8515082",
         "indicators": [
             "chatters",
             "viewers"
@@ -283,7 +283,7 @@
         },
         "dev": "2059e8033d23a3ddbf31ad02f52c25c6",
         "events": [],
-        "hash": "458e55ffd958df1f3519218487beb51d",
+        "hash": "c839d5ff18d52e70ec5ce02351ef1501",
         "indicators": [
             "chatters",
             "viewers"
@@ -306,7 +306,7 @@
         },
         "dev": "581694303ec2b5e6c29d52da56a57b3e",
         "events": [],
-        "hash": "1a7c4ea0f0bdb7ba62315f82c87fb50c",
+        "hash": "ebbb70744f30b26e1aca0d2f97b5e02a",
         "indicators": [
             "viewers"
         ],
@@ -373,7 +373,7 @@
         },
         "dev": "d343fd407be500fa5189bffae8f4df53",
         "events": [],
-        "hash": "fdef260feef38cddfc4f2d03aaae6eb4",
+        "hash": "366fc85c10fcdad161046c01801f6315",
         "indicators": [
             "chatters",
             "viewers"
@@ -395,7 +395,7 @@
         },
         "dev": "6650d927daff5cb67f9bb2926c0c8027",
         "events": [],
-        "hash": "d38cfe8745ab4ec4f641b4cc888620bd",
+        "hash": "f890e2513773d95b4acab2ca51b4d2f5",
         "indicators": [
             "chatters",
             "viewers"
@@ -442,7 +442,7 @@
             "join",
             "leave"
         ],
-        "hash": "deabb0a4ed51cc908ac1f0f5889d5693",
+        "hash": "3f703125cba51dc071be928ae6601069",
         "indicators": [
             "chatters",
             "viewers"
@@ -465,7 +465,7 @@
         },
         "dev": "7c809b11b4faca9c776c00c1b352120a",
         "events": [],
-        "hash": "e7dac8229556693e0ce9bc6dfd509196",
+        "hash": "83045d8d493c09058ba3c152eb3b278f",
         "indicators": [
             "chatters",
             "viewers"
@@ -491,7 +491,7 @@
             "subscribe",
             "donate"
         ],
-        "hash": "bb589a70fe465bb2fabe050f507dc311",
+        "hash": "ba108efb4ac671e61f081df1a8882918",
         "indicators": [
             "donations"
         ],
@@ -518,7 +518,7 @@
             "join",
             "leave"
         ],
-        "hash": "ba359b0ccc0efbe927858d183c85858a",
+        "hash": "f756b6b92fe59267629d788852cfc53e",
         "indicators": [
             "chatters",
             "viewers"
@@ -560,9 +560,9 @@
             "en": "In the \"Channel\" field, you must insert a link to a profile, a community page, or a full link to the broadcast, examples links:<br><br>https://vk.com/video?z=video-62848000_456239029%2Fa11b69b5b14888d2c6%2Fpl_cat_lives<br>https://vk.com/video?z=video160865126_456239059%2Fpl_cat_lives",
             "ru": "В поле \"Канал\" необходимо вставить ссылку на профиль, страницу сообщества или полную ссылку на трансляцию, примеры ссылок:<br><br>https://vk.com/video?z=video-62848000_456239029%2Fa11b69b5b14888d2c6%2Fpl_cat_lives<br>https://vk.com/video?z=video160865126_456239059%2Fpl_cat_lives"
         },
-        "dev": "b23cfc3bbb20cb57a9b6a4ae20f25f80",
+        "dev": "6911765a961e9a20ebbe8c54daf526bb",
         "events": [],
-        "hash": "8288dc53a00fffc0b99dddf2239e2e9b",
+        "hash": "345db0cf0637d4c82f4e63cdc345bfb3",
         "indicators": [
             "chatters",
             "viewers"
@@ -574,7 +574,7 @@
         "name": "VKLive",
         "ng": "1",
         "offer": true,
-        "version": 34
+        "version": 33
     },
     "vktopic": {
         "available": false,
@@ -606,7 +606,7 @@
         },
         "dev": "f4f198b1e0748ff8ea7fb07586aed00c",
         "events": [],
-        "hash": "a9eb5b1fa01c615e8e9339e0b4545a7a",
+        "hash": "05f1ff2299c5d8c5e08afa3fa8ea0c6a",
         "indicators": [
             "chatters",
             "viewers"
