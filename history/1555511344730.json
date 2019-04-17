@@ -29,7 +29,7 @@
         },
         "dev": "fc7807644dfaaf2111f520757c69abe2",
         "events": [],
-        "hash": "261a7e3eb12c4ce0baa9d8768d4fb505",
+        "hash": "04785e600ac340994089680a96271b99",
         "indicators": [
             "chatters",
             "viewers"
@@ -51,7 +51,7 @@
         },
         "dev": "9c516496b74b51e936d531cd0b20b583",
         "events": [],
-        "hash": "ce10152ed996f036b26154eaf8528a68",
+        "hash": "fc6fcf34fb1ae2bb525c116ecee88fd7",
         "indicators": [
             "chatters",
             "viewers"
@@ -76,7 +76,7 @@
         "events": [
             "donate"
         ],
-        "hash": "6d69d9d7ef655b09ee808b717f5cc911",
+        "hash": "0fd64bc6a41c90b3b1bc024dc8984a3f",
         "indicators": [
             "donations"
         ],
@@ -101,7 +101,7 @@
         "events": [
             "donate"
         ],
-        "hash": "785e859491887fd79712c3192029416c",
+        "hash": "6bc8e11c443b92d6034a13844f4a9cfc",
         "indicators": [
             "donations"
         ],
@@ -124,7 +124,7 @@
         },
         "dev": "eec00454732653a6940bd87dc6526459",
         "events": [],
-        "hash": "13a2ec477a36c78f19b21490b4e97708",
+        "hash": "0a61992264f665317e55e8bd2ebd5f53",
         "indicators": [
             "chatters",
             "viewers"
@@ -147,7 +147,7 @@
         },
         "dev": "0871e52624952ec5fca69d68f1eff2d1",
         "events": [],
-        "hash": "71cccbd5d462cc8db13d63de40dff805",
+        "hash": "3cfaa359db7bcdede3aad953aa14cd9f",
         "indicators": [
             "chatters",
             "viewers"
@@ -169,7 +169,7 @@
         },
         "dev": "2e537cca2a5112126d1b0c3c58ba3878",
         "events": [],
-        "hash": "55b43593d12876981b1521b248618931",
+        "hash": "6a946cae54caa47042f1e49b061902ec",
         "indicators": [
             "chatters",
             "viewers"
@@ -194,7 +194,7 @@
             "join",
             "leave"
         ],
-        "hash": "d8a3cd47d69849d20f0e9e58fb87c924",
+        "hash": "b87e218d72d61c1745b356bc8a3ed4ae",
         "indicators": [
             "chatters",
             "viewers"
@@ -216,7 +216,7 @@
         },
         "dev": "a4bd664f79c3f2b7c89d7a9aa3d4778a",
         "events": [],
-        "hash": "6d08d62d3411fdbde1fa18bbc07c8abe",
+        "hash": "6601525386b74845b694eaccc9de4491",
         "indicators": [
             "chatters",
             "viewers"
@@ -238,7 +238,7 @@
         },
         "dev": "de3024ce52e7131173c83a359a37e0d5",
         "events": [],
-        "hash": "d1e730b8385a8514912f7108f19c8134",
+        "hash": "5b7ff6ba53ad4580bc0de4742d1fbd76",
         "indicators": [
             "chatters",
             "viewers"
@@ -260,7 +260,7 @@
         },
         "dev": "1e95f92920cf15fa8f43cc2fc5691d10",
         "events": [],
-        "hash": "86e437ac49c9d1a19bd2f4df8ff92516",
+        "hash": "32a915827946c7c724d23609c5b6b439",
         "indicators": [
             "chatters",
             "viewers"
@@ -282,7 +282,7 @@
         },
         "dev": "2426f18e4f69c0dee83d763da1392b10",
         "events": [],
-        "hash": "64fb406c7f360e6926ced4667fbc9fdf",
+        "hash": "73bd102975d442eb24b513a8240e6ca4",
         "indicators": [
             "chatters",
             "viewers"
@@ -305,7 +305,7 @@
         },
         "dev": "05dfd1cd73cde62be8cfb05621e82a2c",
         "events": [],
-        "hash": "53043a80720f5ffb0325139a1d970122",
+        "hash": "c061375f755faf4392f1cc0a88ee14b8",
         "indicators": [
             "viewers"
         ],
@@ -374,7 +374,7 @@
         "events": [
             "donate"
         ],
-        "hash": "3255f53511567debd20ab87d9352eebe",
+        "hash": "f9808ead30447b8bc20bea31ccd48cb7",
         "indicators": [
             "donations"
         ],
@@ -397,7 +397,7 @@
         },
         "dev": "ac5148dcc8ff9d36d232b14e0fa1b997",
         "events": [],
-        "hash": "983a57ded4508e05d356bcf1af969f40",
+        "hash": "321f582d94d0fcad54e77674ffab8188",
         "indicators": [
             "chatters",
             "viewers"
@@ -419,7 +419,7 @@
         },
         "dev": "fd5278c581dc9594896bd4f4876516a2",
         "events": [],
-        "hash": "a8303e275a0a845df194ba375552eed6",
+        "hash": "87cfb095f3a00998198527042154d34f",
         "indicators": [
             "chatters",
             "viewers"
@@ -466,7 +466,7 @@
             "join",
             "leave"
         ],
-        "hash": "78172609f1944c9b89865a96988a5dea",
+        "hash": "a79a7490cd5a8ff047a12bc0d20cba73",
         "indicators": [
             "chatters",
             "viewers"
@@ -489,7 +489,7 @@
         },
         "dev": "f2cfbc7754ccfa048b6c0439b5636254",
         "events": [],
-        "hash": "2816a6eca6317b1ece5b6c9ad1f55853",
+        "hash": "112cca8fff9c33224b4efdc78a5b96d9",
         "indicators": [
             "chatters",
             "viewers"
@@ -515,7 +515,7 @@
             "subscribe",
             "donate"
         ],
-        "hash": "993308c51246e4f5dc6718c618338777",
+        "hash": "80e4771e36b3210d1f92412ed6af1256",
         "indicators": [
             "donations"
         ],
@@ -542,7 +542,7 @@
             "join",
             "leave"
         ],
-        "hash": "4a75b4aba56953692fc86f66327b05bd",
+        "hash": "bda4b8171832ec602f7af2ab8130ea5a",
         "indicators": [
             "chatters",
             "viewers"
@@ -586,7 +586,7 @@
         },
         "dev": "903f7d1520c39d489b93baa3e0ec108e",
         "events": [],
-        "hash": "7bf17e981a92a3506eecd12ca13b7d3e",
+        "hash": "870e4284b0f3637fbe1006da2d690485",
         "indicators": [
             "chatters",
             "viewers"
@@ -630,7 +630,7 @@
         },
         "dev": "10613c804515d228179218f3bccb0348",
         "events": [],
-        "hash": "a4c10c8e031e0319ebc76b9a0ca10a81",
+        "hash": "9069a55e225ce242c48940902a458172",
         "indicators": [
             "chatters",
             "viewers"
